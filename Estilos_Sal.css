@@ -1,0 +1,35 @@
+/*ESTILOS MINA DE SAL*/
+	body{
+		background: 0;
+		margin: 50px;
+		padding: 0;
+		font-size: 20px;
+		color: black;
+		text-align: justify;
+	}
+	h0{
+		font-size: 35px;
+		background: cyan;
+		color: black;
+	}
+	h1{
+		font-size: 35px;
+		background: #F75D24;
+		color: black;
+	}
+	h2{
+		font-size: 22px;
+		background: #F5855C;
+		color: black;
+	}
+	.margen_img{
+		border: 6px solid #333;
+		border-color: black;
+	}
+
+	.columna{
+     	flex: 1;
+     	float: left;
+     	width: 46%;
+     	margin-right: 3%;
+   }

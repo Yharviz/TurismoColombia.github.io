@@ -1,0 +1,40 @@
+/* ESTILOS CAÑO CRISTALES*/
+	body{
+		
+		margin: 50px;
+		padding: 0;
+		font-size: 20px;
+		color: black;
+		text-align: justify;
+		background-image:Im;
+		background-size: cover; 
+		background-repeat: no-repeat; 
+	}			
+	h0{
+		font-size: 35px;
+		background: cyan;
+		color: black;
+	}
+	h1{
+		font-size: 35px;
+		background: #08C262;
+		color: black;
+	}	
+	h2{
+		font-size: 22px;
+		background: #AFF9F1;
+		color: black;
+	}
+	h3{
+		color: blue;
+	}
+	.columna {
+       	flex: 1;
+       	float: left;
+       	width: 46%;
+       	margin-right: 3%;
+    }
+    .margen_img{
+		border: 8px solid #333;
+		border-color: black;
+	}

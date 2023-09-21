@@ -1,0 +1,25 @@
+/* ESTILOS SANTUARIO DE LAS LAJAS*/ 
+	body{
+		background: 0;
+		margin: 50px;
+		padding: 0;
+		font-size: 20px;
+		color: black;
+		text-align: justify;
+	}
+
+	h1{
+		font-size: 35px;
+		background: cyan;
+		color: black;
+	}
+
+	h2{
+		font-size: 22px;
+		background: #AFF9F1;
+		color: black;
+	}
+	.margen_img{
+		border: 8px solid #333;
+		border-color: black;
+	}

@@ -1,0 +1,31 @@
+/* ESTILOS RESERVA RIO CLARO */
+	body{
+		background: 0;
+		margin: 50px;
+		padding: 0;
+		font-size: 20px;
+		color: black;
+		text-align: justify;
+	}	
+	
+	h1{
+		font-size: 35px;
+		background: #B6F84B;
+		color: black;
+	}	
+
+	h2{
+		font-size: 20px;
+		background: #CFFF81;
+	}
+		
+	.margen_img{
+		border: 8px solid #333;
+		border-color: black;
+	}
+	.columna{
+     	flex: 1;
+     	float: left;
+     	width: 46%;
+     	margin-right: 3%;
+   }

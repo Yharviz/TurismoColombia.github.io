@@ -1,0 +1,35 @@
+/*ESTILOS PARQUE UTRIA*/
+	body{
+		background: 0;
+		margin: 50px;
+		padding: 0;
+		font-size: 20px;
+		color: black;
+		text-align: justify;
+	}
+
+	h1{
+		font-size: 35px;
+		background: #24F589;
+		color: black;
+	}
+	
+	h3{
+		background: #7FF97F;
+	}
+		
+	.margen_img{
+		border: 8px solid #333;
+		border-color: black;
+	}
+    .columna {
+       	flex: 1;
+       	float: left;
+       	width: 30%;
+       	margin-right: 3%;
+    }
+    .maps{
+      	color: black;
+       	background: #7FF97F;
+    }
+        

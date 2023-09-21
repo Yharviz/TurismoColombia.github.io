@@ -1,0 +1,37 @@
+/*ESTILOS PIEDRA DEL PEÑOL*/
+		body{
+			background: 0;
+			margin: 50px;
+			padding: 0;
+			font-size: 20px;
+			color: black;
+			text-align: justify;
+		}
+		h1{
+			font-size: 35px;
+			background: #87F346;
+			color: black;
+		}
+		h2{
+			font-size: 22px;
+			background: #C0FA9D;
+			color: black;
+		}		
+		.justificado
+		{
+			 text-align: justify;
+		}
+		.margen_img{
+			border: 5px solid #333;
+			border-color: black;
+
+		}
+        .columna {
+        	flex: 1;
+        	float: left;
+        	width: 46%;
+        	margin-right: 3%;
+        }
+        .maps{
+        	color: black;
+        }

@@ -1,0 +1,62 @@
+/*ESTILOS CABO*/
+	body{
+		background: 0;
+		margin: 50px;
+		padding: 0;
+		font-size: 20px;
+		color: black;
+		text-align: justify;
+	}
+	
+		h0{
+		font-size: 35px;
+		background: cyan;
+		color: black;
+	}
+	
+		h1{
+		font-size: 35px;
+		background: #F8BA4D;
+		color: black;
+	}
+	
+		h2{
+		font-size: 22px;
+		background: #F8D8A0;
+		color: black;
+	}
+	
+	.justificado{
+		text-align: justify;
+	}
+	
+	.margen_img{
+		border: 6px solid #333;
+		border-color: black;
+	}
+	
+	.columna{
+     	flex: 1;
+     	float: left;
+     	width: 47%;
+     	margin-right: 3%;
+     	background-color: #f2f2f2;
+   }
+   
+   .maps{
+    	color: black;
+    	background: #F8D8A0;
+   }
+
+   .texto-adelante{
+      position: absolute;
+      top: 50px; 
+      left: 430px;            
+      padding: 5px; 
+      color: black; 
+   }
+
+  .contenedor{
+      position: relative; 
+      width: 1300px; 
+   }

@@ -1,0 +1,61 @@
+/* ESTILOS SAN ANDRES ISLAS*/
+	body{
+		background: 0;
+		margin: 50px;
+		padding: 0;
+		font-size: 20px;
+		color: black;
+		text-align: justify;
+	}
+
+	h0{
+		font-size: 35px;
+		background: cyan;
+		color: black;
+	}
+
+	h1{
+		font-size: 35px;
+		background: cyan;
+		color: black;
+	}
+
+	h2{
+		font-size: 22px;
+		background: #AFF9F1;
+		color: black;
+	}
+
+	.contenedor{
+      position: relative; 
+      width: 1300px; 
+   }
+
+	.margen_img{
+		border: 6px solid #333;
+		border-color: black;
+	}
+
+	.texto-adelante{
+      position: absolute;
+      top: 50px; 
+      left: 430px;            
+      padding: 5px; 
+      color: black; 
+    }
+
+   .justificado{
+		text-align: justify;
+	}		
+   
+   .columna{
+      flex: 1;
+      float: left;
+      width: 46%;
+      margin-right: 3%;
+   }
+   
+   .maps{
+     	color: black;
+     	background: cyan;
+   }

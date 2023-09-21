@@ -1,0 +1,32 @@
+/* ESTILOS DESIERTO DE LA TATACOA*/
+	body{
+		background: 0;
+		margin: 50px;
+		padding: 0;
+		font-size: 20px;
+		color: black;
+		text-align: justify
+		}	
+		
+	h0{
+		font-size: 35px;
+		background: cyan;
+		color: black;
+	}
+
+	h1{
+		font-size: 35px;
+		background: cyan;
+		color: black;
+	}
+
+	h2{
+		font-size: 22px;
+		background: #AFF9F1;
+		color: black;
+	}
+
+	.margen_img{
+		border: 6px solid #333;
+		border-color: black;
+	}

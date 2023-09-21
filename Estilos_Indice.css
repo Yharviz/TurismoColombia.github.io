@@ -1,0 +1,13 @@
+/* ESTILOS INDICE */
+
+	body{
+		background: black;
+	}
+
+	.a{
+		border: 5px solid #000;
+		box-sizing: border-box;
+	}
+	h1{
+		color: white;
+	}
